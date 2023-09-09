@@ -1,0 +1,12 @@
+name: Eda-data-visualization
+channels:
+- defaults
+- anaconda
+- conda-forge
+dependencies:
+- python>=3.11.2
+- pandas=1.5.2
+- numpy=1.24.2
+- seaborn=0.12.2
+- matplotlib=3.4.3
+- sklearn
