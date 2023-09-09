@@ -23,6 +23,7 @@ To install the dependencies to run the notebook, you can use Anaconda. Once you 
 
 # Notebooks 
 [data-transformation.ipynb][notebook1] notebook includes all data cleaning, and transformation processes. 
+
 [eda-visualization.ipynb][notebook2] includes all visualization techniques for univariate and bivariate analysis. 
 
 [notebook1]: https://github.com/ftmoztl/EDA-data-visualization/blob/main/data-transformation.ipynb
